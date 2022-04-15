@@ -1,6 +1,6 @@
 # Scrimba Solo Project Unit Converter
 
-> Scrimba solo project challenge [Demo > > > > > > > > > > > >
+> Scrimba solo project challenge [Demo
 > Link]("https://dghousi.github.io/solo-project-unit-converter/"
 > target="\_blank").
 
